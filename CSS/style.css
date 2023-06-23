@@ -18,7 +18,7 @@ background:black;
 body{
     background-color: black;
     height: 0px;
-    width: 100%;
+    width: 98%;
     background-image: url("../Img/interstelar\ blind.jpg");
     background-size:cover;
     
@@ -38,7 +38,7 @@ text-shadow: 1px 1px white;
 }  
 
 header{
-height: 175px;
+height: 150px;
 }  
 .flex-container > div{
 padding: 3%;
