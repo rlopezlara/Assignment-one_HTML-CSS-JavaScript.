@@ -1,0 +1,138 @@
+/*Trailer Botom */
+a{
+margin-left: 580px;
+font-family:'Rubik', sans-serif;
+text-decoration: none;
+color: black;
+text-shadow: 1px 1px white;
+border:2px solid black;
+padding:2Px;
+letter-spacing: 3px;
+font-size: 1.2em;
+}
+a:hover{
+text-decoration: #f8f8f8;
+background:black;
+}
+/* setup Body*/
+body{
+    background-color: black;
+    height: 0px;
+    width: 100%;
+    background-image: url("../Img/interstelar\ blind.jpg");
+    background-size:cover;
+    
+}
+h2, h3, h4, h5, h6{
+    font-family:'Rubik', sans-serif;
+}
+h1{
+    font-family: 'Playfair', sans-serif;
+}
+
+.flex-container{
+display:flex;
+text-align: center;
+padding-top: 0px;
+text-shadow: 1px 1px white;
+}  
+
+header{
+height: 175px;
+}  
+.flex-container > div{
+padding: 3%;
+margin-right: 40px;
+margin-left: 50px;
+text-align: center;
+
+}
+/* gradiente idea */
+.black{
+background: linear-gradient(to right,white, black);
+-webkit-background-clip: text;
+-webkit-text-fill-color:transparent;
+}
+
+main > section > div{
+text-align: center;
+padding: 10px;
+color: #f8f8f8;
+margin-top: 250px;
+font-size: 0.5em;
+
+}
+main > section > div > h4{
+font-size: 2.3em;
+text-shadow: 1px 1px black;
+margin: 0%;
+
+
+}
+main > section > div > h5{
+font-size: 1.8em;
+margin: 0%;
+text-shadow: 1px 1px black;
+    
+}
+main > section > div > h1{
+font-size: 60px;
+margin: 0;
+letter-spacing:15px;
+text-shadow: 2px 2px black;
+
+}
+
+.flex > section{
+margin-left:0%;
+margin-right:2%;
+
+}
+.flex > section > div > p{
+color: #f8f8f8;
+text-align: center;
+font-size: 0.8em;
+margin-top: 0;
+text-shadow: 1px 1px black;
+}
+.foot{
+display: flex;
+color: #f8f8f8;
+margin:0px;
+
+}
+.foot > div{
+margin-left:10px;
+padding-left:5%;
+text-align: center;
+height: 0px;
+
+  }
+
+.foot > div > img{
+padding-left: 0;
+width: 10px;
+background: none;
+opacity:0.5;
+
+    }
+
+.foot > div > h6{
+margin-top: 0;
+margin-bottom: 10px;
+text-shadow: 1px 1px black;
+}
+.title{
+font-size: 1.8em;
+}
+.title > h6{
+width: 200px;
+text-shadow: 1px 1px black;
+
+}
+.TW{
+font-size: 0.5em;
+width: 100px;
+margin-top: 5%;
+margin-right: 0;
+}
